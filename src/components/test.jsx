@@ -1,9 +1,9 @@
 import React from "react";
 import "./test.css"
 
-const imageUrl =
-  "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?dpr=2&h=480&w=640";
-const productPrice = 10.99;
+// const imageUrl =
+//   "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?dpr=2&h=480&w=640";
+// const productPrice = 10.99;g
 
 
 
