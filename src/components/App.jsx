@@ -1,6 +1,5 @@
 import { Paragraph } from "./test";
 import { Ul } from "./test";
-import { H1 } from "./test";
 
 export const App = () => {
   return (

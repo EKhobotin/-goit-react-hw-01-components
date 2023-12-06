@@ -24,7 +24,3 @@ export const Ul = () => {
     <li>xyz</li>
             </ul>)
 }
-
-export const H1 = () => {
- return   <h1>QWERTY</h1>
-}
