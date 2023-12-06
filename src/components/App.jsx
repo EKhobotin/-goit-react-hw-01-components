@@ -1,3 +1,7 @@
+import { Paragraph } from "./test";
+import { Ul } from "./test";
+import { H1 } from "./test";
+
 export const App = () => {
   return (
     <div
@@ -10,7 +14,11 @@ export const App = () => {
         color: '#010101'
       }}
     >
+      <p>
       React homework template
+      </p>
+      <Paragraph color="blue" />
+      <Ul/>   
     </div>
   );
 };
