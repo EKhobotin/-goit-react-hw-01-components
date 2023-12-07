@@ -1,4 +1,4 @@
-import { Profile } from "./Profile/Profile";
+import { Profile } from "components/Profile/Profile";
 import userData from '../data/user.json';
 
 const { username, tag, location, avatar, stats } = userData
