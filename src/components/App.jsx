@@ -1,23 +1,13 @@
-import { Paragraph } from "./test";
-import { Ul } from "./test";
+import React from 'react'
+import { Profile } from "./Profile/Profile";
+import userData from '../data/user.json';
+
+console.log(userData);
+const { username, tag, location, avatar, stats } = userData
 
 export const App = () => {
-  return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      <p>
-      React homework template
-      </p>
-      <Paragraph color="blue" />
-      <Ul/>   
-    </div>
+ 
+  return (   
+    <Profile username={username} tag={tag } location={location} avatar={avatar} stats={stats} />  
   );
 };
