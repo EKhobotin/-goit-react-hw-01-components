@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/EKhobotin/goit-react-hw-01-components/static/css/main.5c1dbd02.css",
-    "main.js": "/EKhobotin/goit-react-hw-01-components/static/js/main.f01f6855.js",
+    "main.css": "/EKhobotin/goit-react-hw-01-components/static/css/main.7acaea2f.css",
+    "main.js": "/EKhobotin/goit-react-hw-01-components/static/js/main.cb23efb0.js",
     "index.html": "/EKhobotin/goit-react-hw-01-components/index.html",
-    "main.5c1dbd02.css.map": "/EKhobotin/goit-react-hw-01-components/static/css/main.5c1dbd02.css.map",
-    "main.f01f6855.js.map": "/EKhobotin/goit-react-hw-01-components/static/js/main.f01f6855.js.map"
+    "main.7acaea2f.css.map": "/EKhobotin/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
+    "main.cb23efb0.js.map": "/EKhobotin/goit-react-hw-01-components/static/js/main.cb23efb0.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c1dbd02.css",
-    "static/js/main.f01f6855.js"
+    "static/css/main.7acaea2f.css",
+    "static/js/main.cb23efb0.js"
   ]
 }
