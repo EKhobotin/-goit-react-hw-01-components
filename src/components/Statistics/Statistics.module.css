@@ -4,8 +4,9 @@
   justify-content: center;
   align-items: center;
   border: green 2px solid;
-  margin: 50px 50px;
+  margin: 50px auto;
   border-radius: 15px;
+  width: 600px;
 }
 .list {
   list-style: none;
