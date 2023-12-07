@@ -2,8 +2,7 @@ import PropTypes from 'prop-types'
 import s from './FriendListItem.module.css'
 
 export const FriendListItem = ({ avatar, name, isOnline }) => {
-    console.log(isOnline);
-    const x = false;
+   
     return (        
         <li className={s.item}>           
     
