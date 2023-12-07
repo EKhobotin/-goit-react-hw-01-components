@@ -3,8 +3,11 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  border: green 2px solid;
+  margin: 50px 250px;
+  border-radius: 15px;
 }
-.stat-list {
+.list {
   list-style: none;
   display: flex;
 }

@@ -32,7 +32,7 @@
   list-style: none;
   justify-content: center;
 }
-.list-item {
+.item {
   border: 1px rgb(182, 41, 41) solid;
   border-radius: 10px;
   margin: 0 10px;
