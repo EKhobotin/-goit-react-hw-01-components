@@ -3,20 +3,13 @@ import s from './FriendListItem.module.css'
 
 export const FriendListItem = ({ avatar, name, isOnline }) => {
     console.log(isOnline);
-    return (
-        
-        <li className={s.item}>             
+    const x = false;
+    return (        
+        <li className={s.item}>           
     
-        <span className={`status-friend ${isOnline ? 'online' : 'offline'}`}></span>    
-
-
-            
-            {/* {isOnline ? <span className="status-friend online"></span> : <span className="status-friend offline"></span>} */}
-            
-
-
-  <img className="avatar-friend" src={avatar} alt="User avatar" width="48" />
-            <p className="name-friend">{ name}</p>
+    <span className={`${s.status} ${isOnline ? s.online : s.offline}`}></span>
+            <img className={s.avatar} src={avatar} alt="User avatar" width="48" />
+            <p className={s.name}>{ name}</p>
 </li>
     )
 }
