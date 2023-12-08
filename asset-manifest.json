@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/EKhobotin/goit-react-hw-01-components/static/css/main.6c46b309.css",
-    "main.js": "/EKhobotin/goit-react-hw-01-components/static/js/main.ac8f4d0f.js",
-    "index.html": "/EKhobotin/goit-react-hw-01-components/index.html",
-    "main.6c46b309.css.map": "/EKhobotin/goit-react-hw-01-components/static/css/main.6c46b309.css.map",
-    "main.ac8f4d0f.js.map": "/EKhobotin/goit-react-hw-01-components/static/js/main.ac8f4d0f.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.6c46b309.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.ac8f4d0f.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.6c46b309.css.map": "/goit-react-hw-01-components/static/css/main.6c46b309.css.map",
+    "main.ac8f4d0f.js.map": "/goit-react-hw-01-components/static/js/main.ac8f4d0f.js.map"
   },
   "entrypoints": [
     "static/css/main.6c46b309.css",
